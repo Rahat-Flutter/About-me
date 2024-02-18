@@ -4,7 +4,8 @@
 
 👨‍💻 About Me:-
 Assalamualikum. I am a dedicated Flutter app developer with 1 year 
-of experience in developing efficient mobile applications.           Committed to delivering high-quality user experiences through clean code and innovative design.
+of experience in developing efficient mobile applications.           
+Committed to delivering high-quality user experiences through clean code and innovative design.
 
 💼 Expertise:-
 →Proficient in Dart programming language & Flutter framework.
@@ -18,8 +19,11 @@ of experience in developing efficient mobile applications.           Committed t
 
 🔍 Interests:-
 →Exploring new Flutter packages and libraries
+
 →Enhancing app performance and optimization.
+
 →Contributing to open-source Flutter projects.
+
 →Keeping up-to-date with Flutter community updates.
 
 
