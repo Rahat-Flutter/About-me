@@ -9,22 +9,17 @@ Committed to delivering high-quality user experiences through clean code and inn
 💼 Expertise:-
 
 →Proficient in Dart programming language & Flutter framework.
-
 →Skilled in UI/UX design .
-
 →Knowledgeable in state management techniques .
-
 →Familiar with RESTful APIs integration and Firebase services.
 
 
 
 🔍 Interests:-
+
 →Exploring new Flutter packages and libraries
-
 →Enhancing app performance and optimization.
-
 →Contributing to open-source Flutter projects.
-
 →Keeping up-to-date with Flutter community updates.
 
 
