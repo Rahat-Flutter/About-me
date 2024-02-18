@@ -8,7 +8,7 @@ Committed to delivering high-quality user experiences through clean code and inn
 
 💼 Expertise:-
 
-→Proficient in Dart programming language & Flutter framework.
+→Proficient in Dart programming language & Flutter framework./n
 →Skilled in UI/UX design .
 →Knowledgeable in state management techniques .
 →Familiar with RESTful APIs integration and Firebase services.
