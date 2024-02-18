@@ -2,23 +2,16 @@
 #### [Flutter App Developer]
 ![[Flutter App Developer]](https://lh3.googleusercontent.com/a/ACg8ocLUviyMobmb3lapisoaz-iLux_fDvvrdfWkAU65Dzudpw=s360-c-no)
 
-Assalamualikum. I am a dedicated Flutter app developer with 1 year 
-of experience in developing efficient mobile applications.           
-Committed to delivering high-quality user experiences through clean code and innovative design.
+Assalamualikum. I am a dedicated learner of Flutter App Development during last 1 year.I am trying my best to learn and develop -mobile applications more efficiently day by day.           
+Committed to building high-quality user experiences through clean code and innovative design.Looking for the opportunity.
 
 💼 Expertise:-
 
-→Proficient in Dart programming language & Flutter framework.
-
-→Skilled in UI/UX design .
-
-→Knowledgeable in state management techniques .
-
-→Familiar with RESTful APIs integration and Firebase services.
-
-
+→Beginner.
 
 🔍 Interests:-
+
+→To build high quality & smooth cross platforms Apps.
 
 →Exploring new Flutter packages and libraries
 
