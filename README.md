@@ -7,7 +7,7 @@ Assalamualikum. I am a dedicated Flutter app developer with 1 year
 of experience in developing efficient mobile applications. Committed to delivering high-quality user experiences through clean code and innovative design.
 
 💼 Expertise:-
-→Proficient in Dart programming language Flutter framework.
+→Proficient in Dart programming language & Flutter framework.
 →Skilled in UI/UX design .
 →Knowledgeable in state management techniques .
 →Familiar with RESTful APIs integration and Firebase services.
