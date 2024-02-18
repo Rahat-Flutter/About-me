@@ -8,9 +8,13 @@ of experience in developing efficient mobile applications. Committed to deliveri
 
 💼 Expertise:-
 →Proficient in Dart programming language & Flutter framework.
+
 →Skilled in UI/UX design .
+
 →Knowledgeable in state management techniques .
+
 →Familiar with RESTful APIs integration and Firebase services.
+
 
 🔍 Interests:-
 →Exploring new Flutter packages and libraries
