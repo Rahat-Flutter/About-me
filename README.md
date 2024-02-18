@@ -2,7 +2,7 @@
 #### [Flutter App Developer]
 ![[Flutter App Developer]](https://lh3.googleusercontent.com/a/ACg8ocLUviyMobmb3lapisoaz-iLux_fDvvrdfWkAU65Dzudpw=s360-c-no)
 
-Assalamualikum. I am a dedicated learner of Flutter App Development during last 1 year.I am trying my best to learn and develop -mobile applications more efficiently day by day.           
+Assalamualikum. I am a dedicated learner of Flutter App Development during last 1.5 years.I am trying my best to learn and develop -mobile applications more efficiently day by day.           
 Committed to building high-quality user experiences through clean code and innovative design.Looking for the opportunity.
 
 💼 Expertise:-
